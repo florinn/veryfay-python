@@ -17,6 +17,8 @@ Features
 
 Installing
 -------------
+**Veryfay requires Python >= 3.3 **
+
 A universal installation method (that works on Windows, Mac OS X, Linux) is to use [pip](https://pip.pypa.io/en/latest/): 
 
 ```
